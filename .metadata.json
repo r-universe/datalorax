@@ -1,0 +1,10 @@
+[
+  {
+    "package": "equatiomatic",
+    "oncran": true
+  },
+  {
+    "package": "esvis",
+    "oncran": true
+  }
+]
