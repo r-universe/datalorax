@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "equatiomatic"]
-	path = equatiomatic
-	url = https://github.com/datalorax/equatiomatic
-	shallow = true
-	registered = true
 [submodule "esvis"]
 	path = esvis
 	url = https://github.com/datalorax/esvis
