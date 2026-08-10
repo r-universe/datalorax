@@ -5,6 +5,3 @@
 [submodule "equatiomatic"]
 	path = equatiomatic
 	url = https://github.com/datalorax/equatiomatic
-[submodule "esvis"]
-	path = esvis
-	url = https://github.com/datalorax/esvis
